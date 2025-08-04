@@ -107,7 +107,6 @@ We welcome contributions from developers who are passionate about education and 
 
 ## 📞 Contact & Support
 
-For questions about LovingTree Lingo development or partnership opportunities, please reach out through our development team.
 
 ---
 
